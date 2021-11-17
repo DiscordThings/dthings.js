@@ -1,8 +1,5 @@
 # dthings.js
 > DiscordThings API library for NodeJS.
 
-## Instalación
-Para instalar la librería simplemente tienes que hacer:
-```bash
-npm i dthings.js
-```
+## Como usar
+Más información en nuestra documentación ([https://dthings.js.org])(https://dthings.js.org).

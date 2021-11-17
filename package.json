@@ -1,0 +1,16 @@
+{
+  "name": "dthings.js",
+  "version": "1.0.0",
+  "description": "DiscordThings API library for NodeJS.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "api",
+    "discordthings"
+  ],
+  "author": "alekitopi",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^3.1.4"
+  }
+}
